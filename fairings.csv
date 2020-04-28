@@ -1,0 +1,4 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,max_radius,panel_mass,panel_cost
+0,AE-FF1 Airstream Protective Shell (1.25m),Small,300,0.075,2600,9,50,1.5,0.01,6
+1,AE-FF2 Airstream Protective Shell (2.5m),Large,600,0.175,2600,9,50,3.0,0.012,12
+2,AE-FF3 Airstream Protective Shell (3.75m),Extra large,900,0.475,2600,9,50,6.0,0.016,18

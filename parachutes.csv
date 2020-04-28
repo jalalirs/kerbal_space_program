@@ -1,0 +1,6 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,semi_deployed_diamter,fully_deployed_diameter,semi_deploy_pressure,full_deploy_altitude
+0,Mk16 Parachute,Tiny,422,0.1,2500,12,50,0.8,20.7,0.04,1000
+1,Mk16-XL Parachute,Small,850,0.3,2500,12,50,2.5,51.2,0.04,1000
+2,Mk2-R Radial-Mount Parachute,Radial mounted,400,0.1,2500,12,50,1.6,41.3,0.04,1000
+3,Mk25 Parachute,Small,400,0.2,2500,12,50,0.9,6.3,0.02,2500
+4,Mk12-R Radial-Mount Drogue Chute,Radial mounted,150,0.075,2500,12,50,1.3,7.7,0.02,2500

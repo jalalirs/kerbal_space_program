@@ -1,0 +1,4 @@
+,part,radial_size,piece_cost,net_cost,net_mass,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,ore,density
+0,Radial Holding Tank,Radial mounted,299,300,0.875,0.125,2000,7,50,75,10
+1,Small Holding Tank,Small,994,1000,3.5,0.5,2000,7,50,300,10
+2,Large Holding Tank,Large,2970,3000,17.0,2.0,2000,7,50,1500,10

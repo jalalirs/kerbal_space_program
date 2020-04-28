@@ -1,0 +1,7 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,steerable
+0,LY-01 Fixed Landing Gear,Radial mounted,100,0.022000000000000002,1000,125,50,No
+1,LY-05 Steerable Landing Gear,Radial mounted,150,0.015,1000,325,50,Yes
+2,LY-10 Small Landing Gear,Radial mounted,600,0.045,2600,50,50,Yes
+3,LY-35 Medium Landing Gear,Radial mounted,700,0.25,2600,50,50,Yes
+4,LY-60 Large Landing Gear,Radial mounted,1200,0.4,2700,70,50,No
+5,LY-99 Extra Large Landing Gear,Radial mounted,1700,0.6,2700,70,50,No

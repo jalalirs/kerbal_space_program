@@ -1,0 +1,8 @@
+,part,radial_size,net_cost,piece_cost,net_mass,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight
+0,Clamp-O-Tron Docking Port Jr.,Tiny,800,800,0.02,0.02,2000,10,50
+1,Clamp-O-Tron Docking Port,Small,280,280,0.05,0.05,2000,10,50
+2,Clamp-O-Tron Shielded Docking Port,Small,400,400,0.1,0.1,2600,10,50
+3,Clamp-O-Tron Docking Port Sr.,Large,980,980,0.2,0.2,2000,20,50
+4,Inline Clamp-O-Tron,Small,700,700,0.3,0.3,2000,10,50
+5,Mk2 Clamp-O-Tron[Note 1],Mk2,850,760,0.6,0.3,2500,50,50
+6,Advanced Grabbing Unit,Small,450,450,0.075,0.075,2000,50,50

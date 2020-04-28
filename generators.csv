@@ -1,0 +1,15 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight
+0,EAS-4 Strut Connector,Radial mounted,42,0.05,2000,12,50
+1,Cubic Octagonal Strut,Tiny,16,0.001,2000,7,50
+2,Octagonal Strut,Tiny,20,0.001,2000,7,50
+3,Modular Girder Adapter,Small,50,0.25,2000,80,50
+4,Modular Girder Segment,Small,25,0.125,2000,80,50
+5,Modular Girder Segment XL,Small,75,0.375,2000,80,50
+6,M-Beam 650 I-Beam,Tiny,50,0.08,2000,80,50
+7,M-Beam 200 I-Beam,Tiny,25,0.375,2000,80,50
+8,M-Beam 200 I-Beam Pocket Edition,Tiny,14,0.1875,2000,80,50
+9,The Not-Rockomax Micronode,Tiny,25,0.15,2000,15,50
+10,M-1x1 Structural Panel,Tiny,30,0.075,2000,80,50
+11,M-2x2 Structural Panel,Tiny,90,0.3,2000,80,50
+12,Small Hardpoint,Radial mounted,60,0.05,2000,20,50
+13,Structural Pylon,Radial mounted,125,0.2,2000,70,50

@@ -1,0 +1,4 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,scanning_mode,scanning_resource,max_altitude
+0,M700 Survey Scanner,Small,1500,0.2,2000,7,50,Orbital,All,1500000
+1,M4435 Narrow-Band Scanner,Small,1000,0.1,2000,7,50,Surface,Ore,500000
+2,Surface Scanning Module,Radial mounted,800,0.005,2000,7,50,Surface,Ore,1000

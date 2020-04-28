@@ -1,0 +1,10 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,electricity_mit,electricity_s,net_transmission_speed,relay_capable,commnet_tier
+0,Communotron 16,Tiny,300,0.005,2000,7,50,6.0,20.0,3.33,No,1
+1,Communotron 16-S,Tiny,300,0.015,2000,7,50,6.0,20.0,3.33,No,1
+2,Communotron DTS-M1,Radial mounted,900,0.05,2000,8,50,6.0,34.3,5.71,No,3
+3,Communotron HG-55,Radial mounted,1200,0.075,2000,7,50,6.67,133.3,20.0,No,4
+4,Communotron 88-88,Tiny,1500,0.1,2000,7,50,10.0,200.0,20.0,No,5
+5,HG-5 High Gain Antenna,Radial mounted,600,0.07,2000,8,50,9.0,51.4,5.71,Yes,2
+6,RA-2 Relay Antenna,Radial mounted,1800,0.15,2000,8,50,24.0,68.6,2.86,Yes,3
+7,RA-15 Relay Antenna,Radial mounted,2400,0.3,2000,8,50,12.0,68.6,5.71,Yes,4
+8,RA-100 Relay Antenna,Radial mounted,3000,0.65,2000,8,50,6.0,68.6,11.43,Yes,5

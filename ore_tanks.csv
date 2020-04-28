@@ -1,0 +1,17 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,max_temp_max,tolerace_velocity,tolerance_weight,lift,deflection_range,deflection_surface_part
+0,AV-R8 Winglet,Radial mounted,640,0.1,2400,2400,12,50,0.5,15,95
+1,Standard Canard,Radial mounted,720,0.1,2400,2400,12,50,0.5,15,100
+2,Advanced Canard,Radial mounted,800,0.08,2400,2400,12,50,0.4,10,100
+3,Delta-Deluxe Winglet,Radial mounted,600,0.078,2400,2400,12,50,0.65,25,20
+4,Tail Fin,Radial mounted,600,0.125,2400,2400,12,50,0.61,25,100
+5,FAT-455 Aeroplane Tail Fin,Radial mounted,1000,0.36,1200,1200,15,50,2.69,15,37
+6,Big-S Spaceplane Tail Fin,Radial mounted,2500,0.45,2400,2400,15,50,3.49,25,29
+7,Elevon 1,Radial mounted,400,0.05,2400,2400,15,50,0.25,20,100
+8,Elevon 2,Radial mounted,550,0.06,2400,2400,15,50,0.3,20,100
+9,Elevon 3,Radial mounted,650,0.08,2400,2400,15,50,0.42,20,100
+10,Elevon 4,Radial mounted,400,0.04,2400,2400,15,50,0.18,20,100
+11,Elevon 5,Radial mounted,800,0.08,2400,2400,15,50,0.4,20,100
+12,Big-S Elevon 1,Radial mounted,950,0.15,2400,2400,15,50,0.77,25,100
+13,Big-S Elevon 2,Radial mounted,1300,0.23,2400,2400,15,50,1.16,25,100
+14,FAT-455 Aeroplane Control Surface,Radial mounted,800,0.17,1200,1200,15,50,0.86,15,100
+15,A.I.R.B.R.A.K.E.S[Note 1],Radial mounted,1000,0.05,1200,2400,8,50,0.38,70,100

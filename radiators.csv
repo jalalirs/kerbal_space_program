@@ -1,0 +1,7 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,deployable,electricity,electricity_per
+0,Radiator Panel (edge),Radial mounted,450,0.03,2500,12,50,No,0.025,1.5/min
+1,Radiator Panel (small),Radial mounted,150,0.01,2500,12,50,No,0.025,1.5/min
+2,Radiator Panel (large),Radial mounted,450,0.05,2500,12,50,No,0.025,1.5/min
+3,Thermal Control System (small),Radial mounted,450,0.05,2500,12,50,Yes,0.025,1.5/min
+4,Thermal Control System (medium),Radial mounted,2250,0.25,2500,12,50,Yes,0.125,0.1/sec
+5,Thermal Control System (large),Radial mounted,9000,1.0,2500,12,50,Yes,0.5,0.5/sec

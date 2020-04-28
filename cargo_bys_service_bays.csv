@@ -1,0 +1,9 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,capacity
+0,Mk2 Cargo Bay CRG-04,Mk2,320,0.25,2500,50,50,1.25x1.875 m (FL-T400)
+1,Mk2 Cargo Bay CRG-08,Mk2,500,0.5,2500,50,50,1.25x3.75 m (FL-T800)
+2,Mk3 Cargo Bay CRG-25,Mk3,750,1.5,2700,50,50,2.50x2.50 m (1⅓ x X200-16)
+3,Mk3 Cargo Bay CRG-50,Mk3,1500,3.0,2700,50,50,2.50x5.00 m (1⅓ x X200-32)
+4,Mk3 Cargo Bay CRG-100,Mk3,3000,6.0,2700,50,50,2.50x10.00 m (1⅓ x Jumbo-64)
+5,Mk3 Cargo Ramp,Mk3,3000,4.0,2700,50,50,2.50x2.00 m (X200-16)
+6,Service Bay (1.25m),Small,500,0.1,2900,14,50,1.25x0.50 m (~ FL-T100)
+7,Service Bay (2.5m),Large,500,0.3,2900,14,50,2.50x1.10 m ( ~ X200-8)

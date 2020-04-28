@@ -1,0 +1,5 @@
+,part,radial_size,piece_cost,piece_mass,max_internal_temp,max_skin_temp,tolerace_velocity,tolerance_weight,crew_capcity
+0,PPD-10 Hitchhiker Storage Container,Large,4000,2.5,2000,6,6,50,4x
+1,Mk1 Crew Cabin,Small,550,1.0,2000,40,40,50,2x
+2,MK2 Crew Cabin,Mk2,4200,2.0,2000,45,45,50,4x
+3,Mk3 Passenger Module,Mk3,30000,6.5,2700,50,50,50,16x

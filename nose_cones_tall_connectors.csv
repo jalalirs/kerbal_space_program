@@ -1,0 +1,3 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,electricity
+0,Convert-O-Tron 125,Small,1 000,1.25,2 000,7,50,30
+1,Convert-O-Tron 250,Large,8 000,4.25,2 000,7,50,30

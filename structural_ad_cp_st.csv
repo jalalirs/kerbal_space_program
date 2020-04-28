@@ -1,0 +1,32 @@
+,part,radial_size,net_cost,piece_cost,net_mass,piece_mass,internal_temp,tolerace_velocity,tolerance_weight,liquid_fuel,oxidizer,density
+0,Rockomax X200-8 Fuel Tank,Large,800,432.8,4.5,0.5,2000,6,50,360.0,440.0,5
+1,Rockomax X200-32 Fuel Tank,Large,3000,1531.2,18.0,2.0,2000,6,50,1440.0,1760.0,5
+2,Rockomax X200-16 Fuel Tank,Large,1550,815.6,9.0,1.0,2000,6,50,720.0,880.0,5
+3,Rockomax Jumbo-64 Fuel Tank,Large,5750,2812.4,36.0,4.0,2000,6,50,2880.0,3520.0,5
+4,R-4 'Dumpling' External Tank,Radial mounted,50,39.9,0.1238,0.0138,2000,5,50,9.9,12.1,5
+5,R-12 'Doughnut' External Tank,Small,147,119.46,0.3375,0.0375,2000,6,50,27.0,33.0,5
+6,R-11 'Baguette' External Tank,Radial mounted,50,25.21,0.3038,0.0338,2000,5,50,24.3,29.7,5
+7,Oscar-B Fuel Tank,Tiny,70,51.64,0.225,0.025,2000,6,50,18.0,22.0,5
+8,Mk3 to Mk2 Adapter,Mk2; Mk3,2200,1282.0,11.43,1.43,2600,50,50,900.0,1100.0,5
+9,Mk3 to 3.75m Adapter,Extra large; Mk3,2500,1353.0,14.29,1.79,2600,50,50,1125.0,1375.0,5
+10,Mk3 to 2.5m Adapter Slanted,Large; Mk3,2500,1353.0,14.29,1.79,2600,50,50,1125.0,1375.0,5
+11,Mk3 to 2.5m Adapter,Large; Mk3,2500,1353.0,14.29,1.79,2600,50,50,1125.0,1375.0,5
+12,Mk3 Rocket Fuel Fuselage Short,Mk3,2500,1352.5,14.29,1.79,2700,50,50,1125.0,1375.0,5
+13,Mk3 Rocket Fuel Fuselage Long,Mk3,10000,5410.0,57.14,7.14,2700,50,50,4500.0,5500.0,5
+14,Mk3 Rocket Fuel Fuselage,Mk3,5000,2705.0,28.57,3.57,2700,50,50,2250.0,2750.0,5
+15,Mk2 to 1.25m Adapter Long,Small; Mk2,1050,682.8,4.57,0.57,2500,50,50,360.0,440.0,5
+16,Mk2 to 1.25m Adapter,Small; Mk2,550,366.4,2.29,0.29,2500,50,50,180.0,220.0,5
+17,Mk2 Rocket Fuel Fuselage Short,Mk2,750,566.4,2.29,0.29,2500,50,50,180.0,220.0,5
+18,Mk2 Rocket Fuel Fuselage,Mk2,1450,1082.8,4.57,0.57,2500,50,50,360.0,440.0,5
+19,Mk2 Bicoupler,Small; Mk2 x 2,860,676.4,2.29,0.29,2500,50,50,180.0,220.0,5
+20,Kerbodyne S3-7200 Tank,Extra large,6500,3195.2,40.5,4.5,2000,6,50,3240.0,3960.0,5
+21,Kerbodyne S3-3600 Tank,Extra large,3250,1597.6,20.25,2.25,2000,6,50,1620.0,1980.0,5
+22,Kerbodyne S3-14400 Tank,Extra large,13000,6390.4,81.0,9.0,2000,6,50,6480.0,7920.0,5
+23,Kerbodyne ADTP-2-3,Large; Extra large,1623,246.0,16.88,1.88,2000,6,50,1350.0,1650.0,5
+24,FL-T800 Fuel Tank,Small,800,432.8,4.5,0.5,2000,6,50,360.0,440.0,5
+25,FL-T400 Fuel Tank,Small,500,316.4,2.25,0.25,2000,6,50,180.0,220.0,5
+26,FL-T200 Fuel Tank,Small,275,183.2,1.125,0.125,2000,6,50,90.0,110.0,5
+27,FL-T100 Fuel Tank,Small,150,104.1,0.5625,0.0625,2000,6,50,45.0,55.0,5
+28,C7 Brand Adapter Slanted - 2.5m to 1.25m,Small; Large,800,433.0,4.57,0.57,2300,20,50,360.0,440.0,5
+29,C7 Brand Adapter - 2.5m to 1.25m,Small; Large,800,433.0,4.57,0.57,2300,20,50,360.0,440.0,5
+30,2.5m to Mk2 Adapter,Large; Mk2,800,432.8,4.57,0.57,2500,50,50,360.0,440.0,5

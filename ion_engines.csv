@@ -1,0 +1,2 @@
+,part,radial_size,piece_cost,net_cost,piece_mass,net_mass,max_temp,tolerace_velocity,tolerance_weight,thrust_atm,thrust_vac,twr_atm,twr_vac,i_sp_atm,i_sp_vac,electricity,xenon
+0,"IX-6315 ""Dawn"" Electric Propulsion System",Tiny,8000,8000,0.25,0.25,2000,7,50,0.048,2.0,0.019,0.816,100,4200,8.741,0.486

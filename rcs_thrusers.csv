@@ -1,0 +1,4 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,thrust,fuel,i_sp_atm,i_sp_vac
+0,RV-105 RCS Thruster Block,Radial mounted,45,0.04,1500,15,50,1.0,0.11,100,240
+1,Place-Anywhere 7 Linear RCS Port,Radial mounted,25,0.02,2600,15,50,2.0,0.21,100,240
+2,Vernor Engine[Note 1],Radial mounted,150,0.08,2000,15,50,12.0,0.94,140,260

@@ -1,0 +1,4 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight
+0,LT-1 Landing Struts,Radial mounted,440,0.05,2000,12,50
+1,LT-2 Landing Strut,Radial mounted,340,0.1,2000,12,50
+2,LT-05 Micro Landing Strut,Radial mounted,200,0.015,1200,10,50

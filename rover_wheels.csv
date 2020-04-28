@@ -1,0 +1,5 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,electricity,max_motor_speed,brake_torque
+0,RoveMax Model S2,Radial mounted,300,0.05,1200,20,20,1.0,12.0,0.34
+1,RoveMax Model M1,Radial mounted,450,0.075,1200,50,50,2.5,34.0,2.0
+2,TR-2L Ruggedized Vehicular Wheel,Radial mounted,760,0.105,1200,100,80,3.5,58.0,3.0
+3,RoveMax Model XL3,Radial mounted,1200,1.25,1200,150,200,5.0,15.5,30.0

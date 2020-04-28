@@ -1,0 +1,4 @@
+,part,radial_size,net_cost,piece_cost,net_mass,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,xenon,density
+0,PB-X50R Xenon Container,Radial mounted,2220,600,0.054000000000000006,0.013999999999999999,2000,12,50,405,0.1
+1,PB-X150 Xenon Container,Tiny,3680,800,0.1,0.024,2000,6,50,720,0.1
+2,PB-X750 Xenon Container,Small,24300,1500,0.76,0.19,2000,6,50,5700,0.1

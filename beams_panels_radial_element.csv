@@ -1,0 +1,15 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,lift,dim_l,dim_w,dim_sd
+0,Wing Connector Type A,Radial mounted,500,0.2,2400,15,50,2.0,2,4,—
+1,Wing Connector Type B,Radial mounted,500,0.2,2400,15,50,2.0,4,2,—
+2,Wing Connector Type C,Radial mounted,250,0.1,2400,15,50,1.0,2,2,—
+3,Wing Connector Type D,Radial mounted,100,0.05,2400,15,50,0.5,2,1,—
+4,Wing Connector Type E,Radial mounted,100,0.05,2400,15,50,0.5,1,2,—
+5,Delta Wing,Radial mounted,600,0.2,2400,15,50,2.0,4,4 / 0,—
+6,Small Delta Wing,Radial mounted,200,0.05,2400,15,50,0.5,2,2 / 0,—
+7,Wing Strake,Radial mounted,400,0.05,2400,15,50,0.5,1,4 / 0,—
+8,Structural Wing Type A,Radial mounted,500,0.1,2400,15,50,1.0,2,4 / 0,—
+9,Structural Wing Type B,Radial mounted,500,0.1,2400,15,50,1.0,4,2 / 0,—
+10,Structural Wing Type C,Radial mounted,300,0.05,2400,15,50,0.5,4,1 / 0,—
+11,Structural Wing Type D,Radial mounted,150,0.025,2400,15,50,0.25,1,2 / 0,—
+12,Swept Wing Type A,Radial mounted,500,0.113,2400,15,50,1.13,4,2 / 0,2
+13,Swept Wing Type B,Radial mounted,500,0.226,2400,15,50,2.26,4,2 / 2,2

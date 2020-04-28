@@ -1,0 +1,11 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,electricity,electricity_per_mass,fuel_consumption
+0,Gigantor XL Solar Array,Radial mounted,3000,0.3,1200,8,50,24.4,81.33,
+1,OX-4W 3x2 Photovoltaic Panels,Radial mounted,380,0.0175,1200,8,50,1.64,93.71,
+2,OX-4L 1x6 Photovoltaic Panels,Radial mounted,380,0.0175,1200,8,50,1.64,93.71,
+3,SP-W 3x2 Photovoltaic Panels,Radial mounted,440,0.025,2000,8,50,1.64,65.6,
+4,SP-L 1x6 Photovoltaic Panels,Radial mounted,440,0.025,2000,8,50,1.64,65.6,
+5,OX-STAT Photovoltaic Panels,Radial mounted,75,0.005,1200,8,50,0.35,70.0,
+6,OX-STAT-XL Photovoltaic Panels,Radial mounted,600,0.04,1200,8,50,2.8,70.0,
+7,PB-NUK Radioisotope Thermoelectric Generator,Tiny,23300,0.08,1200,7,50,0.75,9.38,
+8,Fuel Cell,Radial mounted,750,0.05,2000,7,50,1.5,30.0,0.0016875 LF;0.0020625 Ox
+9,Fuel Cell Array,Radial mounted,4500,0.24,2000,7,50,18.0,75.0,0.02025 LF;0.02475 Ox

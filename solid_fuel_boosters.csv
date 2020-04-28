@@ -1,0 +1,10 @@
+,part,radial_size,net_cost,piece_cost,net_mass,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,fuel,thrust_atm,thrust_vac,twr_full_atm,twr_full_vac,twr_empty_atm,twr_empty_vac,i_sp_atm,i_sp_vac,burn,density
+0,Sepratron I,Radial mounted,75,70.2,0.1,0.0,2000,7,50,8,13.79,18.0,19.4,25.32,112.51,146.84,118,154,5.0,7.5
+1,"S1 SRB-KD25k ""Kickback"" Solid Fuel Booster",Small; Radial mounted,2700,1140.0,24.0,4.5,2200,7,50,2600,593.86,670.0,2.52,2.85,13.46,15.18,195,220,62.8,7.5
+2,"RT-5 ""Flea"" Solid Fuel Booster",Small; Radial mounted,200,116.0,1.5,0.45,2000,7,50,140,162.91,192.0,11.07,13.05,36.92,43.51,140,165,8.8,7.5
+3,"RT-10 ""Hammer"" Solid Fuel Booster",Small; Radial mounted,400,175.0,3.56,0.75,2000,7,50,375,197.9,227.0,5.66,6.5,26.91,30.86,170,195,23.7,7.5
+4,"FM1 ""Mite"" Solid Fuel Booster",Tiny; Radial mounted,75,51.0,0.375,0.075,2200,7,50,40,11.012,12.5,2.93,3.33,14.68,16.66,185,210,49.44,7.5
+5,"F3S0 ""Shrimp"" Solid Fuel Booster",Tiny; Radial mounted,150,96.0,0.875,0.155,2200,7,50,90,26.511999999999997,30.0,3.22,3.65,17.1,19.35,190,215,47.44,7.5
+6,"BACC ""Thumper"" Solid Fuel Booster",Small; Radial mounted,850,358.0,7.65,1.5,2200,7,50,820,250.0,300.0,3.33,4.0,17.0,20.39,175,210,42.2,7.5
+7,"[[S2-33 ""Clydesdale"" Solid Fuel Booster|]]",Large; Radial mounted,18500,8660.0,144.0,21.0,2200,10,50,16400,2948.9359999999997,3300.0,2.05,2.29,14.04,15.71,210,235,85.9,7.5
+8,"[[S2-17 ""Thoroughbred"" Solid Fuel Booster|]]",Large; Radial mounted,9000,4200.0,70.0,10.0,2200,10,50,8000,1515.217,1700.0,2.16,2.43,15.15,17.0,205,230,79.6,7.5

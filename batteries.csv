@@ -1,0 +1,6 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight,capacity
+0,Z-100 Rechargeable Battery Pack,Radial mounted,80,0.005,1200,8,50,100
+1,Z-200 Rechargeable Battery Bank,Tiny,360,0.01,2000,8,50,200
+2,Z-400 Rechargeable Battery,Radial mounted,550,0.02,1200,8,50,400
+3,Z-1k Rechargeable Battery Bank,Small,880,0.05,2000,8,50,1000
+4,Z-4K Rechargeable Battery Bank,Large,4500,0.2,2000,8,50,4000

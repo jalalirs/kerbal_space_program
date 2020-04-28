@@ -1,0 +1,4 @@
+,part,radial_size,piece_cost,piece_mass,max_internal/skin_temp,tolerace_velocity,tolerance_weight
+0,Pegasus I Mobility Enhancer,Radial mounted,100,0.005,2000,8,50
+1,Kelus Mobility Enhancer,Radial mounted,350,0.005,2000,8,50
+2,Kelus-LV Bay Mobility Enhancer,Radial mounted,440,0.005,2000,8,50
